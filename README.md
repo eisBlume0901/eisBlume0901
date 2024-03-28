@@ -4,4 +4,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eisBlume0901&theme=jolly&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eisBlume0901&layout=compact&theme=jolly&hide_progress=true)
